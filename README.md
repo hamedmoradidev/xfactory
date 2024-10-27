@@ -4,7 +4,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://hamedmoradidev.github.io/XFACTORY/](https://hamedmoradidev.github.io/XFACTORY/)
+[https://hamedmoradidev.github.io/xfactory/](https://hamedmoradidev.github.io/xfactory/)
 
 <h2>💻 Built with</h2>
 
